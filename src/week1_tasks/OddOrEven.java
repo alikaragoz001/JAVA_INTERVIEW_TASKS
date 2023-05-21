@@ -1,3 +1,5 @@
+package week1_tasks;
+
 public class OddOrEven {
 
     public static void identifyOddEven(int number){
