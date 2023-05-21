@@ -1,18 +1,18 @@
 public class OddOrEven {
 
-    public static void main(String[] args) {
+    public static void identifyOddEven(int number){
 
-
-        int num = 6;
-
-        if (num % 2 == 0) {
-
-            System.out.println(num + " is even number");
-
-        } else {
-            System.out.println(num + " is odd number");
-
+        if(number %2 == 0){
+            System.out.println(number + "is even");
+        }else{
+            System.out.println(number + " is odd");
         }
+
+    }
+
+    public static void main(String[] args) {
+        int number = -5;
+        identifyOddEven(number);
     }
 }
 
