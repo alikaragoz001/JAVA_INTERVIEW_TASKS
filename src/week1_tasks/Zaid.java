@@ -2,7 +2,7 @@ package week1_tasks;
 
 public class Zaid {
 
-    //task1:
+
     public static String oddOrEven(int number) {
         if (number % 2 == 0) {
             return number + " is Even";
@@ -14,8 +14,7 @@ public class Zaid {
     }
 
 
-    //task2
-    //                                          10   ,         2
+
     public static void dividingWithoutOperator(int num1, int num2) {
         int finalRes = 0;
 
@@ -29,7 +28,7 @@ public class Zaid {
         System.out.println("Remainder: " + num1);
     }
 
-    //task3
+
     public static void finra() {
         for (int i = 1; i <= 30; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
