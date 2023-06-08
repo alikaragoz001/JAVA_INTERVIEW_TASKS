@@ -8,7 +8,7 @@ public class DivideWithoutDivision {
         int remainder = dividend;
 
         while (remainder >= divisor) {
-            remainder -= divisor;
+             remainder -= divisor;
             quotient++;
         }
 
