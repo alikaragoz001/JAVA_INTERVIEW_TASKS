@@ -3,7 +3,7 @@ package week3_tasks;
 Numbers -- Prime Number
 Write a method that can check if a number is prime or not.
  */
-public class PrimeNumber {
+/*public class PrimeNumber {
         public static void main(String[] args) {
             int number = 17;
             boolean isPrime = isPrimeNumber(number);
@@ -29,8 +29,10 @@ public class PrimeNumber {
 
 
 
+ */
 
-/*
+
+
 public class PrimeNumber {
 
     public static void main(String[] args) {
@@ -64,7 +66,7 @@ public class PrimeNumber {
     }
 }
 
- */
+
 
 
 
