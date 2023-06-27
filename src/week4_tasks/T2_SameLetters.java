@@ -1,6 +1,6 @@
 package week4_tasks;
 
-public class SameLetters {
+public class T2_SameLetters {
     public static boolean same (String str1, String str2 ) {
 
         //Check if the lenghts of the strings are equal
