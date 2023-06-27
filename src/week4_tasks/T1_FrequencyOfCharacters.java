@@ -1,6 +1,6 @@
 package week4_tasks;
 
-public class FrequencyOfCharacters {
+public class T1_FrequencyOfCharacters {
     public static String frequencyOfChars (String str ) {
 
         StringBuilder result = new StringBuilder();
