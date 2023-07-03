@@ -1,6 +1,6 @@
 package week2_tasks;
 
-public class Zaid3 {
+public class Zaid_3 {
     public static void main(String[] args) {
 
 

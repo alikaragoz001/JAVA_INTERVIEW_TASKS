@@ -2,7 +2,7 @@ package week2_tasks;
 
 import java.util.Scanner;
 
-public class Zaid2 {
+public class Zaid_2 {
     public static void main(String[] args) {
 
 

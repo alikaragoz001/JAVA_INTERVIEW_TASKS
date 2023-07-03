@@ -1,6 +1,5 @@
-package week4;
+package week4_tasks;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Zaid_2 {
@@ -9,7 +8,7 @@ public class Zaid_2 {
         String word1 = "bat";
         String word2 = "bat";
 
-        System.out.println( sameLetters(word1, word2) ) ;
+        System.out.println( sameLetters(word1, word2) );
 
         String word3 = "hello";
         String word4 = "word";

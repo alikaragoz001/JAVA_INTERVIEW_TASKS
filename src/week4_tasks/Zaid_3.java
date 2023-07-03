@@ -1,4 +1,4 @@
-package week4;
+package week4_tasks;
 
 public class Zaid_3 {
 

@@ -1,8 +1,6 @@
 package week2_tasks;
 
-import java.util.Scanner;
-
-public class Zaid {
+public class Zaid_1 {
     public static void main(String[] args) {
 
         // swap two variable values without a third variable
