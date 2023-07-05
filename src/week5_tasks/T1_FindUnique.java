@@ -18,7 +18,7 @@ public class T1_FindUnique {
             char currentChar = str.charAt(i);
 
             if (str.indexOf(currentChar) == str.lastIndexOf(currentChar)) {   // checking if the current character is unique,
-                // by comparing its first occurrence index
+                                                                              // by comparing its first occurrence index
                 // with its last occurrence index in the string
                 uniqueChars += currentChar;              // if the character is unique, append it to the uniqueChars string
             }
