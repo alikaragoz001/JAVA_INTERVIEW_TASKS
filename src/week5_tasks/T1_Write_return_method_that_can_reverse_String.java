@@ -1,4 +1,4 @@
-package wek5_tasks;
+package week5_tasks;
 
 public class T1_Write_return_method_that_can_reverse_String {
 

@@ -1,4 +1,4 @@
-package wek5_tasks;
+package week5_tasks;
 
 public class T2_Write_return_method_find_unique_char_String {
 
