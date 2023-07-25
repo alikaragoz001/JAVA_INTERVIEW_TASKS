@@ -13,10 +13,7 @@ public class Zaid_2 {
         int maximum = maxNum(numbers);
         System.out.println("The maximum number is: " + maximum);
 
-
-
     }
-
     public static int maxNum(int[] numbers){
 
 
