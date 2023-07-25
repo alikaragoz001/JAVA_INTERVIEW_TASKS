@@ -12,7 +12,7 @@ public class Sort_Ascending_Array {
 
     public static void main(String[] args) {
 
-        int[] arr = {15, 4, 55, 5, 12};
+        int[] arr = {7, 8, 9, 10, 12};
 
         int[] sortedArr = sortAscending(arr);  // Call the sortAscending method to sort the array in ascending order
 
