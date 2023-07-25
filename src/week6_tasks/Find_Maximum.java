@@ -6,7 +6,7 @@ Write a method that can find the maximum number from an int Array
 public class Find_Maximum {
 
     public static void main(String[] args) {
-        // Sample array to find the maximum number
+
         int[] nums= {1, 33, 5, 7, 9, 900, 400000};
 
         // Initialize a variable to store the maximum number and set it to the first element of the array
