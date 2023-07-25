@@ -6,21 +6,26 @@ Write a method that can find the maximum number from an int Array
 public class Find_Maximum {
 
     public static void main(String[] args) {
-        // DO NOT TOUCH BELOW
-//            Scanner input = new Scanner(System.in);
-//            int[] nums = {input.nextInt(),input.nextInt(),input.nextInt(),input.nextInt(),input.nextInt()};
-        int[] nums= {1, 33, 5, 7, 9,900,400000};
+        // Sample array to find the maximum number
+        int[] nums= {1, 33, 5, 7, 9, 900, 400000};
 
-        //WRITE YOUR CODE BELOW
+        // Initialize a variable to store the maximum number and set it to the first element of the array
         int max = nums[0];
+
+        // Loop through each element of the array
         for (int each : nums){
+            // Compare each element with the current maximum value
+            // If the current element is greater than the current maximum, update the maximum value
             if(each > max){
                 max = each;
             }
         }
-        System.out.println(max);
+
+        // After the loop, 'max' will hold the maximum number in the array
+        System.out.println("Maximum number: " + max);
     }
 }
+
 
 
 
