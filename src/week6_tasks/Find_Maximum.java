@@ -3,7 +3,7 @@ package week6_tasks;
 Array -- Find Maximum
 Write a method that can find the maximum number from an int Array
  */
-/*public class Find_Maximum {
+public class Find_Maximum {
 
     public static void main(String[] args) {
         // DO NOT TOUCH BELOW
@@ -21,11 +21,13 @@ Write a method that can find the maximum number from an int Array
         System.out.println(max);
     }
 }
+
+
+
+
 /*
-   */
-
-
 public class Find_Maximum {
+
 
     public static int findMaximum(int[] arr) {
 
@@ -51,5 +53,7 @@ public class Find_Maximum {
     }
 
 }
+
+ */
 
 
