@@ -1,6 +1,6 @@
 package week3_tasks;
 
-public class Zaid {
+public class Zaid_1 {
     public static void main(String[] args) {
         if (isPrime(5)) {
             System.out.println(" the number is Prime");

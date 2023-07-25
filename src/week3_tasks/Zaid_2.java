@@ -1,6 +1,6 @@
 package week3_tasks;
 
-public class Zaid2 {
+public class Zaid_2 {
     public static void main(String[] args) {
         System.out.println(reverseNum(-34));
     }
