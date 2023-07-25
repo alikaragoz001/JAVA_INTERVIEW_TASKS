@@ -3,13 +3,31 @@ package week6_tasks;
 Array -- Find Maximum
 Write a method that can find the maximum number from an int Array
  */
+/*public class Find_Maximum {
+
+    public static void main(String[] args) {
+        // DO NOT TOUCH BELOW
+//            Scanner input = new Scanner(System.in);
+//            int[] nums = {input.nextInt(),input.nextInt(),input.nextInt(),input.nextInt(),input.nextInt()};
+        int[] nums= {1, 33, 5, 7, 9,900,400000};
+
+        //WRITE YOUR CODE BELOW
+        int max = nums[0];
+        for (int each : nums){
+            if(each > max){
+                max = each;
+            }
+        }
+        System.out.println(max);
+    }
+}
+/*
+   */
+
+
 public class Find_Maximum {
 
     public static int findMaximum(int[] arr) {
-
-        if (arr == null || arr.length == 0) {
-            throw new IllegalArgumentException("Array is empty or null");    // Check if the array is empty or null
-        }
 
 
         int max = arr[0];   // Assume the first element as the maximum value
@@ -33,3 +51,5 @@ public class Find_Maximum {
     }
 
 }
+
+
